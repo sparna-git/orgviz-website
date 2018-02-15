@@ -1,3 +1,20 @@
 # ORGviz
 
-This is ORGviz
+## Introducing ORGviz
+
+The ORGviz project brings a **simple visualisation tool for government agencies and companies** which need to create graphical representation of their organisational charts.
+
+ORGviz enables users to understand organisation of public services at a glance and navigate through organisational charts to identify services and persons in charge.
+
+## ORG data
+
+ORGviz is based on the [Organization ontology](https://www.w3.org/TR/vocab-org/) (abbreviated "ORG ontology"), a W3C standard to describe organization data, sub-organizations, membership, sites, etc.
+
+The tool takes in account few properties added by the [EU Who is Who](http://europa.eu/whoiswho) project to arrange structures and persons with specific orders based on protocol or responsibility level (The "euvoc" ontology, accessible from [this page](http://publications.europa.eu/mdr/cdm/index.html)).
+
+## CPOV
+
+## Contact - Who we are
+
+
+
