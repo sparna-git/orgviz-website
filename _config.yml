@@ -1,4 +1,4 @@
 theme: jekyll-theme-architect
 show_downloads: false
-title: ORGviz - ORG ontology visualization service
-description: Generate charts and organigram from RDF data using the ORG ontology
+title: ORGviz
+description: Generate charts and organigrams from ORG RDF data
