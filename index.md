@@ -18,6 +18,8 @@ _To be written..._
 
 ## Contact - Who we are
 
-Thomas Francart & Jean Delahousse, you can send us a mail at **"contact at orgviz dot eu"**. Thomas is blogging [here](http://blog.sparna.fr) on semantic web (in French).
+Thomas Francart & Jean Delahousse, you can send us a mail at **"contact at orgviz dot eu"**. 
 
 We happily share our 30+ cumulated years of experience in semantic web technologies with public administrations in France and worldwide !
+
+Thomas is blogging [here](http://blog.sparna.fr) on semantic web (in French), and has also developped, amongst other [SKOS Play](http://labs.sparna.fr/skos-play), a suite of tools to visualize, convert and validate SKOS data.
