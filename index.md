@@ -12,7 +12,7 @@ ORGviz is based on the [Organization ontology](https://www.w3.org/TR/vocab-org/)
 
 The tool takes in account few properties added by the [EU Who is Who](http://europa.eu/whoiswho) project to arrange structures and persons with specific orders based on protocol or responsibility level (The "euvoc" ontology, accessible from [this page](http://publications.europa.eu/mdr/cdm/index.html)).
 
-## CPOV
+## CPOV
 
 _To be written..._
 
