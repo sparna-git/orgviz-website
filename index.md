@@ -14,7 +14,10 @@ The tool takes in account few properties added by the [EU Who is Who](http://eur
 
 ## CPOV
 
+_To be written..._
+
 ## Contact - Who we are
 
+Thomas Francart & Jean Delahousse, you can send us a mail at "contact at orgviz dot eu". Thomas is blogging [here](http://blog.sparna.fr).
 
-
+We happily share our 30+ cumulated years of experience in semantic web technologies with public administrations in France and worldwide !
