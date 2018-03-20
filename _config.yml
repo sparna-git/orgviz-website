@@ -2,3 +2,4 @@ theme: jekyll-theme-architect
 show_downloads: false
 title: ORGviz
 description: Charts and organigrams from ORG RDF data
+google_analytics:UA-35413868-2
