@@ -41,7 +41,7 @@ _To be written..._
 
 ## Contact - Who we are
 
-Thomas Francart & Jean Delahousse, you can send us a mail at **"contact at orgviz dot eu"**. 
+Thomas Francart & Jean Delahousse, you can send us a mail at **"contact at orgviz dot eu"**. You can also use the [contact form of Sparna](http://www.sparna.fr/contact/).
 
 We happily share our 30+ cumulated years of experience in semantic web technologies with public administrations in France and worldwide !
 
