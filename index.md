@@ -14,7 +14,20 @@ ORGviz can generate the following types of output :
 
 ![ORGviz Treant screenshot](images/orgviz-screenshot-treant.png)
 
-Levraging [Treant.js](http://fperucic.github.io/treant-js/) Javascript library.
+Leveraging [Treant.js](http://fperucic.github.io/treant-js/) Javascript library.
+
+### HTML list view
+
+![ORGviz HTML screenshot](images/orgviz-screenshot-list.png)
+
+Displaying the hierarchy and list of members of each organization.
+Including nice semantic SEO [schema.org](http://schema.org) markup.
+
+### HTML responsive view
+
+![ORGviz responsive screenshot](images/orgviz-screenshot-responsive.png)
+
+Responsive output for displaying your organization's chart on your iPhone !
 
 ## ORG data
 
