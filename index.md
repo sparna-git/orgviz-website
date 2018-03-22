@@ -6,6 +6,17 @@ The ORGviz project brings a **simple visualisation tool for government agencies 
 
 ORGviz enables users to understand organisation of public services at a glance and navigate through organisational charts to identify services and persons in charge.
 
+
+## ORGviz output
+
+ORGviz can generate the following types of output :
+
+### Unfoldable tree using treant
+
+![ORGviz Treant screenshot]({{site.url}}/images/orgviz-screenshot-treant.png)
+
+Levraging [Treant.js](http://fperucic.github.io/treant-js/) Javascript library.
+
 ## ORG data
 
 ORGviz is based on the [Organization ontology](https://www.w3.org/TR/vocab-org/) (abbreviated "ORG ontology"), a W3C standard to describe organization data, sub-organizations, membership, sites, etc.
