@@ -6,8 +6,7 @@ The ORGviz project brings a **simple visualisation tool for government agencies 
 
 ORGviz enables users to understand organisation of public services at a glance and navigate through organisational charts to identify services and persons in charge.
 
-
-## ORGviz output
+## ORGviz output
 
 ORGviz can generate the following types of output :
 
