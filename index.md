@@ -13,7 +13,7 @@ ORGviz can generate the following types of output :
 
 ### Unfoldable tree using treant
 
-![ORGviz Treant screenshot]({{site.url}}/images/orgviz-screenshot-treant.png)
+![ORGviz Treant screenshot](images/orgviz-screenshot-treant.png)
 
 Levraging [Treant.js](http://fperucic.github.io/treant-js/) Javascript library.
 
