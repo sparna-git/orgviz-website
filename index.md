@@ -6,7 +6,7 @@ The [**ORGviz**](http://orgviz.eu) project brings a **simple visualisation tool 
 
 ORGviz enables users to understand organisation of public services at a glance and navigate through organisational charts to identify services and persons in charge.
 
-The ORGviz online service is at [**http://orgviz.eu**](http://orgviz.eu).
+_The ORGviz online service is at [**http://orgviz.eu**](http://orgviz.eu)._
 
 ## ORGviz output
 
