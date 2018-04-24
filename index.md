@@ -46,10 +46,10 @@ As ORGviz does RDFS inference on the data provided to it, other refinements of t
 ## Current limitations
 
 The online ORGviz service is limited to :
- - 80 Organizations maximum in a single file;
- - A maximum depth of 4 in the organization hierarchy tree;
+ - **80 organizations** maximum in a single file;
+ - A maximum **depth of 4** in the organization hierarchy tree;
 
-If you need more, please get in touch !
+If you need more, please get in touch ! (see below)
 
 ## Contact - Who we are
 
