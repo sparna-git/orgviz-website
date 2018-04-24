@@ -39,7 +39,9 @@ The tool takes in account few properties added by the [EU Who is Who](http://eur
 
 ## CPOV
 
-_To be written..._
+The Core Public Organization Vocabulary, or [CPOV](https://joinup.ec.europa.eu/solution/core-public-organisation-vocabulary) defines a specific subclass of Organization : PublicOrganization. ORGviz can handle instances of CPOV PublicaOrganization because it internally loads the CPOV ontology and does RDFS inference on it.
+
+As ORGviz does RDFS inference on the data provided to it, other refinements of the ORG ontology can also be handled, provided the model (declaration of the subClassOf and subPropertyOf links) is submitted to the service along with the data;
 
 ## Contact - Who we are
 
