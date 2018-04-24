@@ -43,6 +43,14 @@ The Core Public Organization Vocabulary, or [CPOV](https://joinup.ec.europa.eu/s
 
 As ORGviz does RDFS inference on the data provided to it, other refinements of the ORG ontology can also be handled, provided the model (declaration of the subClassOf and subPropertyOf links) is submitted to the service along with the data;
 
+## Current limitations
+
+The online ORGviz service is limited to :
+ - 80 Organizations maximum in a single file;
+ - A maximum depth of 4 in the organization hierarchy tree;
+
+If you need more, please get in touch !
+
 ## Contact - Who we are
 
 Thomas Francart & Jean Delahousse, you can send us a mail at **"contact at orgviz dot eu"**. You can also use the [contact form of Sparna](http://www.sparna.fr/contact/).
