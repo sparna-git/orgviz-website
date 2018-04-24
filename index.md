@@ -2,7 +2,9 @@
 
 ## Introducing ORGviz
 
-The [ORGviz](http://orgviz.eu) project brings a **simple visualisation tool for government agencies and companies** which need to create graphical representation of their organisational charts. ORGviz is at **[http://orgviz.eu](http://orgviz.eu)**.
+The [**ORGviz**](http://orgviz.eu) project brings a **simple visualisation tool for government agencies and companies** which need to create graphical representation of their organisational charts.
+
+ :point_right: ORGviz is at **[http://orgviz.eu](http://orgviz.eu)**.
 
 ORGviz enables users to understand organisation of public services at a glance and navigate through organisational charts to identify services and persons in charge.
 
