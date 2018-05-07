@@ -31,15 +31,25 @@ Including nice semantic SEO [schema.org](http://schema.org) markup.
 
 Responsive output for displaying your organization's chart on your iPhone !
 
-## ORG data
+## Modeling
+
+### ORG data
 
 ORGviz is based on the [Organization ontology](https://www.w3.org/TR/vocab-org/) (abbreviated "ORG ontology"), a W3C standard to describe organization data, sub-organizations, membership, sites, etc.
 
+### Euvoc
+
 The tool takes in account few properties added by the [EU Who is Who](http://europa.eu/whoiswho) project to arrange structures and persons with specific orders based on protocol or responsibility level (The "euvoc" ontology, accessible from [this page](http://publications.europa.eu/mdr/cdm/index.html)).
 
-## CPOV
+### CPOV
 
 The Core Public Organization Vocabulary, or [CPOV](https://joinup.ec.europa.eu/solution/core-public-organisation-vocabulary) , defines a specific subclass of Organization : [PublicOrganization](http://data.europa.eu/m8g/PublicOrganisation). ORGviz can handle instances of CPOV PublicaOrganization because it internally loads the CPOV ontology and does RDFS inference on it.
+
+### RegORG
+
+The Registered Organization Vocabulary, or [RegORG](https://www.w3.org/TR/vocab-regorg/) is a profile of the Organization Ontology for describing organizations that have gained legal entity status through a formal registration process, typically in a national or regional register. It defines the type [RegisteredOrganization](http://www.w3.org/ns/regorg#RegisteredOrganization) as a subclass of org:FormalOrganization, along with the property [legalName](http://www.w3.org/ns/regorg#legalName) as the name under which an Organization is registered. ORGviz can parse both RegisteredOrganization and legalName.
+
+### Other ORG extensions through RDFS
 
 As ORGviz does RDFS inference on the data provided to it, other refinements of the ORG ontology can also be handled, provided the model (declaration of the subClassOf and subPropertyOf links) is submitted to the service along with the data;
 
